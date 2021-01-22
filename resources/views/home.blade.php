@@ -603,14 +603,14 @@
     <div class="container-fluid my-5">
         <div class="row justify-content-center text-center text-md-left">
             <div class="col-12 col-md-6 kolaborasi1 pl-4 pr-0 pt-5">
-                <div class="col-6">
+                <div class="col-12 col-md-8 col-lg-6">
                     <p class="judul my-2">Menjadi Pembicara</p>
                     <p>Kami membuka kesempatan untuk individu/lembaga yang ingin menjadi pemateri pada LatihID Modul, Talks, ataupun Pojok Cerita (PETA).</p>
                     <a class="btn btn-primary-oren">Ayo Kolaborasi</a>
                 </div>
             </div>
             <div class="col-12 col-md-6 kolaborasi2 pl-4 pr-0 pt-5">
-                <div class="col-6">
+                <div class="col-12 col-md-8 col-lg-6">
                     <p class="judul my-2">Menjadi Mitra</p>
                     <p>Kami menerima individu/lembaga yang ingin bekerja sama untuk jenis kemitraan lainnya, seperti media partner.</p>
                     <a class="btn btn-primary-oren">Ayo Kolaborasi</a>
@@ -624,7 +624,7 @@
 <section id="footer">
     <div class="container-fluid">
         <div class="row justify-content-center">
-            <div class="col-2">
+            <div class="col-6 col-sm-4 col-md-2">
                 <div class="text-center">
                     <img src="https://design.upanastudio.com/latih_id_asset/Aset%20LatihID/Logo%20LatihID%20-%20New/NEW%20LOGO%20LATIHID%20Color.png" width="70" alt="" class="img-fluid tema" />
                 </div>
@@ -632,7 +632,7 @@
                     pelatihan gratis dan berkualitas untuk
                     UMKM di Indonesia</p>
             </div>
-            <div class="col-2">
+            <div class="col-6 col-sm-4 col-md-2">
                 <ul class="judulFooter ulFooter"> Menu
                     <li> <a href="">Beranda</a></li>
                     <li> <a href="">Modul</a></li>
@@ -640,7 +640,7 @@
                     <li> <a href="">Hubungi Kami</a></li>
                 </ul>
             </div>
-            <div class="col-2">
+            <div class="col-6 col-sm-4 col-md-2">
                 <ul class="judulFooter ulFooter"> Info
                     <li> <a href="">FAQ</a></li>
                     <li> <a href="">Ayo Kolaborasi</a></li>
@@ -648,7 +648,7 @@
                     <li> <a href="">Syarat Penggunaan</a></li>
                 </ul>
             </div>
-            <div class="col-2">
+            <div class="col-6 col-sm-4 col-md-2">
                 <ul class="judulFooter ulFooter"> Ikuti Kami
                     <li> <a href="#" target="_blank" title="YouTube">
                             <i class="fab fa-youtube" aria-hidden="true"></i> LatihID Official
@@ -661,7 +661,7 @@
                         </a> </li>
                 </ul>
             </div>
-            <div class="col-2">
+            <div class="col-10 col-sm-4 col-md-2">
                 <form>
                     <div class="judulFooter text-center">Jadi yang pertama mengetahui
                         update terbaru dari kami !</div>
